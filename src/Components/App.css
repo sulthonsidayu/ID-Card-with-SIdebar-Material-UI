@@ -1,0 +1,114 @@
+
+.LabelJudul{
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align:center;
+  width:75%;
+  background-color: #689f38;
+  color:white;
+  padding-top:10px;
+  padding-bottom:10px;
+  border-radius:0.5rem;
+}
+.Label{
+  font-family: 'Source Sans Pro', sans-serif;
+  color:white;
+  font-weight: bold;
+  font-size:18px;
+  text-align: center;
+  width:75%;
+
+  
+}
+.LabelKelamin{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 16px;
+}
+.KotakInput{
+  width:75%;
+  padding:6px 3px;
+  margin-top:10px;
+  margin-bottom: 10px;
+  border-radius: 0.5rem;
+  border-style: solid;
+  border-color:#689f38;
+  position: static;
+}
+.JenisKelamin{
+  width:75%;
+  padding:6px 3px;
+  margin-top:10px;
+  margin-bottom: 10px;
+  border-radius: 0.5rem;
+  border-style: solid;
+  border-color: #689f38;
+}
+.Status{
+  width:75%;
+  padding:8px 3px;
+  margin-top:10px;
+  margin-bottom: 10px;
+  background-color:#689f38;
+  border-radius: 0.5rem;
+  border-style: solid;
+  border-color: whitesmoke;
+  color:white;
+}
+.FotoProfil{
+  width:75%;
+  padding:8px 3px;
+  margin-top:10px;
+  margin-bottom: 10px;
+  background-color:#689f38;
+  border-radius: 0.5rem;
+  border-style: solid;
+  border-color: whitesmoke;
+  color:white;
+}
+.Cetak{
+  background-color:#e040fb;
+  color:white;
+  margin-bottom: 7px;
+  width:25%;
+  border-radius:0.5rem;
+  border-style:solid;
+  border-color:white;
+  border-width:2px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size:14px;
+  text-align:center;
+  font-weight:bold;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  position:inherit;
+}
+.Simpan{
+  background-color:#9e9d24;
+  color:white;
+  margin-bottom: 7px;
+  width:25%;
+  border-radius:0.5rem;
+  border-style:solid;
+  border-color:white;
+  border-width:2px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size:14px;
+  text-align:center;
+  font-weight:bold;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.Reset{
+  background-color:red;
+  color:white;
+  width:25%;
+  border-radius:0.5rem;
+  border-style:solid;
+  border-color:white;
+  border-width:2px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size:14px;
+  text-align:center;
+  font-weight:bold;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
